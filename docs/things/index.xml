@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Things on Akankshya Mahapatra</title>
-    <link>https://example.org/things/</link>
+    <link>https://eagerogre.github.io/things/</link>
     <description>Recent content in Things on Akankshya Mahapatra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2024 13:20:05 +0530</lastBuildDate>
-    <atom:link href="https://example.org/things/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eagerogre.github.io/things/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guesstimate Cheatsheat</title>
-      <link>https://example.org/things/paying_it_forward_1/</link>
+      <link>https://eagerogre.github.io/things/paying_it_forward_1/</link>
       <pubDate>Wed, 10 Apr 2024 13:20:05 +0530</pubDate>
-      <guid>https://example.org/things/paying_it_forward_1/</guid>
+      <guid>https://eagerogre.github.io/things/paying_it_forward_1/</guid>
       <description>Here&amp;rsquo;s a handy resource for your PM interviews.</description>
     </item>
   </channel>

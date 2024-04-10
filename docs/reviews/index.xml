@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reviews on Akankshya Mahapatra</title>
-    <link>https://example.org/reviews/</link>
+    <link>https://eagerogre.github.io/reviews/</link>
     <description>Recent content in Reviews on Akankshya Mahapatra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2024 13:19:22 +0530</lastBuildDate>
-    <atom:link href="https://example.org/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eagerogre.github.io/reviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poor Things</title>
-      <link>https://example.org/reviews/movies/movie_review_1/</link>
+      <link>https://eagerogre.github.io/reviews/movies/movie_review_1/</link>
       <pubDate>Wed, 10 Apr 2024 13:19:22 +0530</pubDate>
-      <guid>https://example.org/reviews/movies/movie_review_1/</guid>
+      <guid>https://eagerogre.github.io/reviews/movies/movie_review_1/</guid>
       <description>This movie is trash.</description>
     </item>
   </channel>
