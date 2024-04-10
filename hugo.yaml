@@ -12,6 +12,7 @@ params:
     - projects
     - reviews
     - writings
+    - things
   ShowAllPagesInArchive: true
   homeInfoParams:
     Title: Hi there wave
