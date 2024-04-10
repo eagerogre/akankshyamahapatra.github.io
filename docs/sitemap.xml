@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-04-10T13:20:05+05:30</lastmod>
+    <lastmod>2024-04-10T15:59:59+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/resume/</loc>
+    <lastmod>2024-04-10T15:59:59+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/things/paying_it_forward_1/</loc>
     <lastmod>2024-04-10T13:20:05+05:30</lastmod>
@@ -11,10 +14,13 @@
     <loc>http://localhost:1313/things/</loc>
     <lastmod>2024-04-10T13:20:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reviews/movies/movie_review_1/</loc>
+    <loc>http://localhost:1313/reviews/</loc>
     <lastmod>2024-04-10T13:19:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reviews/</loc>
+    <loc>http://localhost:1313/reviews/movies/</loc>
+    <lastmod>2024-04-10T13:19:22+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reviews/movies/movie_review_1/</loc>
     <lastmod>2024-04-10T13:19:22+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/create_personal_blog_using_obsidian_hugo_githubpages/</loc>
