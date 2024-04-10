@@ -1,0 +1,16 @@
+baseURL: https://eagerogre.github.io/
+languageCode: en-us
+title: Akankshya Mahapatra
+theme: PaperMod
+publishDir: docs
+sectionPagesMenu: main
+pluralizelisttitles: false
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+  socialIcons:
+    - name: <platform>
+      url: <link>
+    - name: <platform 2>
+      url: <link2>

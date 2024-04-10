@@ -23,10 +23,22 @@
     <loc>http://localhost:1313/reviews/movies/movie_review_1/</loc>
     <lastmod>2024-04-10T13:19:22+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/blog/</loc>
+    <lastmod>2024-04-10T13:18:46+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/projects/create_personal_blog_using_obsidian_hugo_githubpages/</loc>
     <lastmod>2024-04-10T13:18:46+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2024-04-10T13:18:46+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/obsidian/</loc>
+    <lastmod>2024-04-10T13:18:46+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-04-10T13:18:46+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-04-10T13:18:46+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/product/product_observation_1/</loc>
@@ -42,7 +54,5 @@
     <lastmod>2024-04-10T12:05:15+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
