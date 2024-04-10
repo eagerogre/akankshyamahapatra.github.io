@@ -4,3 +4,4 @@ title = 'Akankshya Mahapatra'
 theme = 'PaperMod'
 publishDir = "docs"
 sectionPagesMenu = 'main'
+pluralizelisttitles = false
