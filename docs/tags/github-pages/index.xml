@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hugo on Akankshya Mahapatra</title>
-    <link>http://localhost:1313/tags/hugo/</link>
-    <description>Recent content in Hugo on Akankshya Mahapatra</description>
+    <title>GitHub Pages on Akankshya Mahapatra</title>
+    <link>http://localhost:1313/tags/github-pages/</link>
+    <description>Recent content in GitHub Pages on Akankshya Mahapatra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2024 07:48:46 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create Personal Blog Using Obsidian, Hugo &amp; GitHub Pages</title>
       <link>http://localhost:1313/projects/create_personal_blog_using_obsidian_hugo_githubpages/</link>
