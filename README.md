@@ -1,5 +1,4 @@
 # Personal Blog
 
-link: eagerogre.github.io
-
+https://eagerogre.github.io/
 
