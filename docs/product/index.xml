@@ -6,7 +6,14 @@
     <description>Recent content in Products on Akankshya Mahapatra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 13:16:19 +0530</lastBuildDate>
     <atom:link href="https://example.org/product/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kinnu: Feedback Loop</title>
+      <link>https://example.org/product/product_observation_1/</link>
+      <pubDate>Wed, 10 Apr 2024 13:16:19 +0530</pubDate>
+      <guid>https://example.org/product/product_observation_1/</guid>
+      <description>This post spotlights one of the ways Kinnu integrates user feedback for continuous discovery into its product development cycles.</description>
+    </item>
   </channel>
 </rss>

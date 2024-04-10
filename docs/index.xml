@@ -6,8 +6,36 @@
     <description>Recent content on Akankshya Mahapatra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2024 12:05:15 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 13:20:05 +0530</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guesstimate Cheatsheat</title>
+      <link>https://example.org/things/paying_it_forward_1/</link>
+      <pubDate>Wed, 10 Apr 2024 13:20:05 +0530</pubDate>
+      <guid>https://example.org/things/paying_it_forward_1/</guid>
+      <description>Here&amp;rsquo;s a handy resource for your PM interviews.</description>
+    </item>
+    <item>
+      <title>Poor Things</title>
+      <link>https://example.org/reviews/movies/movie_review_1/</link>
+      <pubDate>Wed, 10 Apr 2024 13:19:22 +0530</pubDate>
+      <guid>https://example.org/reviews/movies/movie_review_1/</guid>
+      <description>This movie is trash.</description>
+    </item>
+    <item>
+      <title>Create Personal Blog Using Obsidian, Hugo &amp; GitHub Pages</title>
+      <link>https://example.org/projects/create_personal_blog_using_obsidian_hugo_githubpages/</link>
+      <pubDate>Wed, 10 Apr 2024 13:18:46 +0530</pubDate>
+      <guid>https://example.org/projects/create_personal_blog_using_obsidian_hugo_githubpages/</guid>
+      <description>A straightforward way to building your personal blog for free.</description>
+    </item>
+    <item>
+      <title>Kinnu: Feedback Loop</title>
+      <link>https://example.org/product/product_observation_1/</link>
+      <pubDate>Wed, 10 Apr 2024 13:16:19 +0530</pubDate>
+      <guid>https://example.org/product/product_observation_1/</guid>
+      <description>This post spotlights one of the ways Kinnu integrates user feedback for continuous discovery into its product development cycles.</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://example.org/writings/my-first-post/</link>

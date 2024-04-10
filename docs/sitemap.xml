@@ -5,14 +5,26 @@
     <loc>https://example.org/</loc>
     <lastmod>2024-04-10T13:20:05+05:30</lastmod>
   </url><url>
+    <loc>https://example.org/things/paying_it_forward_1/</loc>
+    <lastmod>2024-04-10T13:20:05+05:30</lastmod>
+  </url><url>
     <loc>https://example.org/things/</loc>
     <lastmod>2024-04-10T13:20:05+05:30</lastmod>
+  </url><url>
+    <loc>https://example.org/reviews/movies/movie_review_1/</loc>
+    <lastmod>2024-04-10T13:19:22+05:30</lastmod>
   </url><url>
     <loc>https://example.org/reviews/</loc>
     <lastmod>2024-04-10T13:19:22+05:30</lastmod>
   </url><url>
+    <loc>https://example.org/projects/create_personal_blog_using_obsidian_hugo_githubpages/</loc>
+    <lastmod>2024-04-10T13:18:46+05:30</lastmod>
+  </url><url>
     <loc>https://example.org/projects/</loc>
     <lastmod>2024-04-10T13:18:46+05:30</lastmod>
+  </url><url>
+    <loc>https://example.org/product/product_observation_1/</loc>
+    <lastmod>2024-04-10T13:16:19+05:30</lastmod>
   </url><url>
     <loc>https://example.org/product/</loc>
     <lastmod>2024-04-10T13:16:19+05:30</lastmod>
