@@ -5,7 +5,14 @@ theme: PaperMod
 publishDir: docs
 sectionPagesMenu: main
 pluralizelisttitles: false
+
 params:
+  mainSections:
+    - product
+    - projects
+    - reviews
+    - writings
+  ShowAllPagesInArchive: true
   homeInfoParams:
     Title: Hi there wave
     Content: Can be Info, links, about...
