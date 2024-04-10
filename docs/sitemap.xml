@@ -2,54 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://eagerogre.github.io/</loc>
     <lastmod>2024-04-10T15:59:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>https://eagerogre.github.io/resume/</loc>
     <lastmod>2024-04-10T15:59:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/things/paying_it_forward_1/</loc>
+    <loc>https://eagerogre.github.io/things/</loc>
     <lastmod>2024-04-10T13:20:05+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/things/</loc>
-    <lastmod>2024-04-10T13:20:05+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/reviews/movie_review_1/</loc>
+    <loc>https://eagerogre.github.io/reviews/</loc>
     <lastmod>2024-04-10T13:19:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reviews/</loc>
-    <lastmod>2024-04-10T13:19:22+05:30</lastmod>
+    <loc>https://eagerogre.github.io/projects/</loc>
+    <lastmod>2024-04-10T07:48:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2024-04-10T13:18:46+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/create_personal_blog_using_obsidian_hugo_githubpages/</loc>
-    <lastmod>2024-04-10T13:18:46+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2024-04-10T13:18:46+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/obsidian/</loc>
-    <lastmod>2024-04-10T13:18:46+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2024-04-10T13:18:46+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-04-10T13:18:46+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/product/product_observation_1/</loc>
+    <loc>https://eagerogre.github.io/product/</loc>
     <lastmod>2024-04-10T13:16:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/product/</loc>
-    <lastmod>2024-04-10T13:16:19+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/writings/my-first-post/</loc>
+    <loc>https://eagerogre.github.io/writings/</loc>
     <lastmod>2024-04-10T12:05:15+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writings/</loc>
-    <lastmod>2024-04-10T12:05:15+05:30</lastmod>
+    <loc>https://eagerogre.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://eagerogre.github.io/tags/</loc>
   </url>
 </urlset>
