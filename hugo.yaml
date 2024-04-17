@@ -1,6 +1,151 @@
 baseURL: https://eagerogre.github.io/
 languageCode: en-us
 title: Akankshya Mahapatra
+copyright: Akankshya Mahapatra
 theme: 'hugo-theme-stack'
 publishDir: docs
 pluralizelisttitles: false
+paginate: 8
+DefaultContentLanguage: en
+
+permalinks:
+    projects: /projects/:slug/
+    writings: /writings/:slug/
+    things: /things/:slug/
+
+services:
+  googleAnalytics:
+    ID: G-LZDKX0HDP5
+
+
+params:
+  description: Personal Blog
+  mainSections: ["projects", "writings", "things"]
+  featuredImageField: image
+  dateFormat:
+        published: Jan 02, 2006
+        lastUpdated: Jan 02, 2006 15:04 IST
+  colorScheme:
+        # Display toggle
+        toggle: false
+        # Available values: auto, light, dark
+        default: dark
+  imageProcessing:
+        cover:
+            enabled: true
+        content:
+            enabled: true
+  sidebar:
+        compact: false
+        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        avatar:
+            enabled: true
+            local: true
+            src: img/tina-avatar.jpg
+  footer:
+        since: 2024
+        customText: <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+  article:
+        math: true
+        toc: true
+        readingTime: true
+        license:
+            enabled: false
+  widgets:
+        homepage:
+            - type: search
+            - type: categories
+              params:
+                  limit: 15
+            - type: tag-cloud
+              params:
+                  limit: 20
+        page:
+            - type: toc
+
+
+menu:
+    main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: -100
+          params:
+            icon: home
+            newTab: false
+        - identifier: projects
+          name: Projects
+          url: /projects
+          weight: -80
+          params:
+            icon: tools
+            newTab: false
+        - identifier: writings
+          name: Writings
+          url: /writings
+          weight: -70
+          params:
+            icon: pencil-minus
+            newTab: false
+        - identifier: things
+          name: Things
+          url: /things
+          weight: -60
+          params:
+            icon: plant
+            newTab: false  
+    social:
+        - identifier: linkedin
+          name: LinkedIn
+          url: https://www.linkedin.com/in/akankshya-mahapatra/
+          weight: -50
+          params:
+            icon: brand-linkedin
+            newTab: true
+        - identifier: discord
+          name: Discord
+          url: https://www.linkedin.com/in/akankshya-mahapatra/
+          weight: -90
+          params:
+            icon: brand-discord
+            newTab: true
+        - identifier: reddit
+          name: Reddit
+          url: https://www.linkedin.com/in/akankshya-mahapatra/
+          weight: -80
+          params:
+            icon: brand-reddit
+            newTab: true
+        - identifier: x
+          name: X
+          url: https://www.linkedin.com/in/akankshya-mahapatra/
+          weight: -60
+          params:
+            icon: brand-x
+            newTab: true
+        - identifier: email
+          name: Email
+          url: mailto:akankshya.mhpatra@gmail.com?cc=eagerogre89@gmail.com
+          weight: -40
+          params:
+            icon: mail
+            newTab: true
+
+
+markup:
+    goldmark:
+        renderer:
+            ## Set to true if you have HTML content inside Markdown
+            unsafe: true
+    tableOfContents:
+        endLevel: 4
+        ordered: true
+        startLevel: 2
+    highlight:
+        noClasses: false
+        codeFences: true
+        guessSyntax: true
+        lineNoStart: 1
+        lineNos: true
+        lineNumbersInTable: true
+        tabWidth: 4

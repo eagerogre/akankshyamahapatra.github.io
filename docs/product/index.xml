@@ -2,10 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Product on Akankshya Mahapatra</title>
-        <link>https://eagerogre.github.io/product/</link>
+        <link>http://localhost:1313/product/</link>
         <description>Recent content in Product on Akankshya Mahapatra</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 10 Apr 2024 13:16:19 +0530</lastBuildDate><atom:link href="https://eagerogre.github.io/product/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Wed, 10 Apr 2024 13:16:19 +0530</lastBuildDate><atom:link href="http://localhost:1313/product/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Kinnu: Feedback Loop</title>
+        <link>http://localhost:1313/product/product_observation_1/</link>
+        <pubDate>Wed, 10 Apr 2024 13:16:19 +0530</pubDate>
+        
+        <guid>http://localhost:1313/product/product_observation_1/</guid>
+        <description>&lt;p&gt;This post spotlights one of the ways Kinnu integrates user feedback for continuous discovery into its product development cycles.&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>
