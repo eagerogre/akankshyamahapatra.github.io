@@ -41,7 +41,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/tina-avatar.jpg
+            src: img/generic-shutterstock.png
   footer:
         since: 2024
         customText: This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><b>CC BY-NC-SA 4.0</b></a>. <br> Additional terms may apply.
