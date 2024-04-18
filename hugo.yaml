@@ -44,7 +44,7 @@ params:
             src: img/tina-avatar.jpg
   footer:
         since: 2024
-        customText: <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+        customText: This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0</a>. Additional terms may apply.
   article:
         math: true
         toc: true
@@ -104,21 +104,21 @@ menu:
             newTab: true
         - identifier: discord
           name: Discord
-          url: https://www.linkedin.com/in/akankshya-mahapatra/
+          url: https://discord.com/users/eagerogre89 
           weight: -90
           params:
             icon: brand-discord
             newTab: true
         - identifier: reddit
           name: Reddit
-          url: https://www.linkedin.com/in/akankshya-mahapatra/
+          url: https://www.reddit.com/user/EagerOgre89/
           weight: -80
           params:
             icon: brand-reddit
             newTab: true
         - identifier: x
           name: X
-          url: https://www.linkedin.com/in/akankshya-mahapatra/
+          url: https://twitter.com/eagerogre89
           weight: -60
           params:
             icon: brand-x
