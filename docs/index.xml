@@ -2,84 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Akankshya Mahapatra</title>
-        <link>http://localhost:1313/</link>
+        <link>https://eagerogre.github.io/</link>
         <description>Recent content on Akankshya Mahapatra</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Akankshya Mahapatra</copyright>
-        <lastBuildDate>Sun, 21 Apr 2024 17:04:25 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Second Project</title>
-        <link>http://localhost:1313/projects/second-project/</link>
-        <pubDate>Sun, 21 Apr 2024 17:04:25 +0530</pubDate>
-        
-        <guid>http://localhost:1313/projects/second-project/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>My First Project</title>
-        <link>http://localhost:1313/projects/my-first-project/</link>
-        <pubDate>Sun, 21 Apr 2024 16:43:46 +0530</pubDate>
-        
-        <guid>http://localhost:1313/projects/my-first-project/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>My First Post</title>
-        <link>http://localhost:1313/writings/my-first-post/</link>
-        <pubDate>Sun, 21 Apr 2024 16:42:50 +0530</pubDate>
-        
-        <guid>http://localhost:1313/writings/my-first-post/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Sun, 21 Apr 2024 17:04:25 +0530</lastBuildDate><atom:link href="https://eagerogre.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Profile</title>
-        <link>http://localhost:1313/profile/</link>
+        <link>https://eagerogre.github.io/profile/</link>
         <pubDate>Wed, 10 Apr 2024 15:59:59 +0530</pubDate>
         
-        <guid>http://localhost:1313/profile/</guid>
+        <guid>https://eagerogre.github.io/profile/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>Guesstimate Cheatsheat</title>
-        <link>http://localhost:1313/things/guesstimate-cheatsheat/</link>
-        <pubDate>Wed, 10 Apr 2024 13:20:05 +0530</pubDate>
-        
-        <guid>http://localhost:1313/things/guesstimate-cheatsheat/</guid>
-        <description>&lt;p&gt;Here&amp;rsquo;s a handy resource for your PM interviews.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Create Personal Blog Using Obsidian, Hugo &amp; GitHub Pages</title>
-        <link>http://localhost:1313/projects/create-personal-blog-using-obsidian-hugo-github-pages/</link>
-        <pubDate>Wed, 10 Apr 2024 07:48:46 +0000</pubDate>
-        
-        <guid>http://localhost:1313/projects/create-personal-blog-using-obsidian-hugo-github-pages/</guid>
-        <description>&lt;p&gt;A straightforward way to building your personal blog for free.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>My First Post</title>
-        <link>http://localhost:1313/writings/my-first-post/</link>
-        <pubDate>Wed, 10 Apr 2024 12:05:15 +0530</pubDate>
-        
-        <guid>http://localhost:1313/writings/my-first-post/</guid>
-        <description>&lt;p&gt;This is my firts post, hurray!&lt;/p&gt;
-</description>
         </item>
         <item>
         <title>Archives</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://eagerogre.github.io/archives/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://eagerogre.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://eagerogre.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://eagerogre.github.io/search/</guid>
         <description></description>
         </item>
         
