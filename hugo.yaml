@@ -7,6 +7,7 @@ publishDir: docs
 pluralizelisttitles: false
 paginate: 8
 DefaultContentLanguage: en
+enableEmoji: true
 
 permalinks:
     projects: /projects/:slug/
@@ -17,6 +18,10 @@ services:
   googleAnalytics:
     ID: G-LZDKX0HDP5
 
+taxonomies:
+  category: categories
+  keyword: keywords
+  tag: tags
 
 params:
   description: Personal Blog
@@ -44,7 +49,7 @@ params:
             src: img/generic-5.png
   footer:
         since: 2024
-        customText: This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><b>CC BY-NC-SA 4.0</b></a>. <br> Additional terms may apply.
+        customText: This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;text-decoration:underline;font-weight:bold;">CC BY-SC-NA 4.0</a>.<br> Additional terms may apply.
   article:
         math: true
         toc: true
